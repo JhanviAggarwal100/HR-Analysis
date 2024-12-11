@@ -65,6 +65,8 @@ Global Presence
 
 https://www.linkedin.com/in/jhanvi-aggarwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-## Tools Used - Power BI 
+## Tools Used 
+- Power BI 
 
-## Skills - Analytical Skills, HR Strategy, Data Analysis, Case Analysis
+## Skills 
+- Analytical Skills, HR Strategy, Data Analysis, Case Analysis
